@@ -1,4 +1,4 @@
-token=NjExMDgxNzkyMjUzODUzNzIw.XVPBVw.wCn6GSYdwcwc527dHnp4YqumXt0owner=610981856913129491
+token=NzYwMDU1NTgyMDU2NjQ0NjA5.X3Ge6w.LgacsUpOY__OkqB6PK6oyI9oR5Mowner=711202327012573214
 prefix=^
 stayinchannel=true
 songinstatus=true
